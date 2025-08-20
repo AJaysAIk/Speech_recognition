@@ -73,7 +73,7 @@ Datasets need to be placed in the `data/` directory.
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/speech-emotion-recognition.git
+git clone 
 cd speech-emotion-recognition
 
 # Create virtual environment
